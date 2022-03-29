@@ -285,6 +285,7 @@ nav.show .icon-close {
 #home .image img {
   position: relative;
   right: 2.93rem;
+  max-width: 550px;
 }
 
 #home .image img,
